@@ -1,5 +1,5 @@
 ### Hi there 👋
-![rustkas's github stats](https://github-readme-stats.vercel.app/api?username=rustkas&count_private=true&show_icons=true&theme=dracula)
+![rustkas's github stats](https://github-readme-stats.vercel.app/api?username=rustkas&count_private=true&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustkas&layout=compact)
 
