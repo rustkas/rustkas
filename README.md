@@ -1,9 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on [FlatterCast](https://github.com/rustkas/FlutterCasts)
+<!--
 ![rustkas's github stats](https://github-readme-stats.vercel.app/api?username=rustkas&count_private=true&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustkas&layout=compact)
 
-<!--
+
 **rustkas/rustkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
