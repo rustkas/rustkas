@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [FlatterCast](https://github.com/rustkas/FlutterCasts)
+
 <!--
 ![rustkas's github stats](https://github-readme-stats.vercel.app/api?username=rustkas&count_private=true&show_icons=true&theme=cobalt)
 
