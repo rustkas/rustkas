@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustkas&label=Views&color=green&style=plastic" alt="Anatolii" /> </p>
 
-<a href="https://twitter.com/java1cprog">
-  <img align="left" alt="tai" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/anatolii-kosorukov-444a97109/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
