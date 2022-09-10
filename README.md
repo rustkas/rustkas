@@ -10,8 +10,9 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ... LMS for remembering things for ever [intro](https://www.youtube.com/watch?v=1orVGnbSeyQ)
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Angular, Nextjs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,6 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ... LMS for remembering things for ever [(intro)](https://www.youtube.com/watch?v=1orVGnbSeyQ)
+- 🌱 I’m currently learning ... Angular, Nextjs
+- 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustkas&label=Views&color=green&style=plastic" alt="Anatolii" /> </p>
 
