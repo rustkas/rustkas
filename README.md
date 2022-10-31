@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ... LMS for remembering things for ever [(intro)](https://www.youtube.com/watch?v=1orVGnbSeyQ)
 - 🌱 I’m currently learning ... Angular, Nestjs
+- 🔭 I’m currently working on ... LMS for remembering things for ever [(intro)](https://www.youtube.com/watch?v=1orVGnbSeyQ)
+
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
 
 
