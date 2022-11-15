@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
 
-
+[My LinkedIn Profile](https://www.linkedin.com/in/anatolii-kosorukov-444a97109/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustkas&label=Views&color=green&style=plastic" alt="Anatolii" /> </p>
 
