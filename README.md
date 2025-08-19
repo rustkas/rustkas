@@ -11,6 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Blockchain Solana mini ledger implementation
+
 - 🔭 I’m currently working on ... LMS for remembering things for ever [intro](https://www.youtube.com/watch?v=1orVGnbSeyQ)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... Angular, Nextjs
