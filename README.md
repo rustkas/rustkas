@@ -10,6 +10,7 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ... Blockchain Solana mini ledger implementation
 - 🔭 I’m currently working on ... LMS for remembering things for ever [intro](https://www.youtube.com/watch?v=1orVGnbSeyQ)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... Angular, Nextjs
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently work with ...  TypeScript 
+- 🌱 I’m currently work with ...  Sonala blockchain 
 - 🔭 I’m currently working on ... LMS for remembering things for ever [(intro)](https://www.youtube.com/watch?v=1orVGnbSeyQ)
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
