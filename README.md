@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently work with ...  Sonala blockchain 
-- 🔭 I’m currently working on ... Blockchain Solana mini ledger implementation
+- 🌱 I’m currently work with ...  Move blockchain 
+- 🔭 I’m currently working on ... Blockchain Sui mini ledger implementation
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
 - By me a coffee ☕︎: [rustkas](https://www.buymeacoffee.com/rustkas)
