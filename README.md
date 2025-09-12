@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently work with ...  Dart programming language 
-- 🔭 I’m currently working on ... Blockchain Aptos Dart API implementation
+- 🌱 I’m currently work with ...  Gleam, Erlang, Dart programming language 
+- 🔭 I’m currently working on ... Gleam ecosystem development
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
 - By me a coffee ☕︎: [rustkas](https://www.buymeacoffee.com/rustkas)
