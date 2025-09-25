@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently work with ...  Python programming language 
-- 🔭 I’m currently working on ... Gleam ecosystem development
+- 🔭 I’m currently working on ... Computer Vision development
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
 - By me a coffee ☕︎: [rustkas](https://www.buymeacoffee.com/rustkas)
