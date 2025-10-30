@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently work with ...  Python programming language 
+- 🌱 I’m currently work with ...  C programming language 
 - 🔭 I’m currently working on ... Computer Vision development
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
