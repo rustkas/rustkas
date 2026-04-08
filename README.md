@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Computer Vision development
 -->
 
-- 🌱 I’m currently work with ...  Golang programming language 
+- 🌱 I’m currently work with ...  Solar Energy solutions (FusionSolar) 
 
 
 - 📫 How to reach me: ... email me to [java1cprog@](mailto:java1cprog@yandex.ru)
